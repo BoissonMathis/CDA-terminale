@@ -1,0 +1,2 @@
+mkdir -p /home/$USERNAME/$1/Ressources/Sources /home/$USERNAME/$1/Backend
+touch /home/$USERNAME/$1/Backend/server.js /home/$USERNAME/$1/Backend/test.js /home/$USERNAME/$1/Ressources/Sources/Sites_1 /home/$USERNAME/$1/Ressources/Sources/Sites_2 /home/$USERNAME/$1/Ressources/Documentation_backend /home/$USERNAME/$1/Ressources/Documentation_frontend
